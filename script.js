@@ -12,9 +12,7 @@ const fillers = {
   
   const template = `$player, welcome to the playground!
 
-  The playground’s gate is locked at midnight. There are many $scary all over the midnight playground. You need to cooperate with your friend, $player, 
-  to solve some puzzles provided all over the playground to get out of here in $number hours. You might need to $action two $objects together or use the $color keys, 
-  $shapes, or $tools you got before to solve the puzzle. After on puzzle is solved, there are going to be some $color keys, $shapes, or $tools for you to collect. 
+  The playground’s gate is locked at midnight. There are many $scary all over the midnight playground. You need to cooperate with your friend, $player, to solve some puzzles provided all over the playground to get out of here in $number hours. You might need to $action two $objects together or use the $color keys, $shapes, or $tools you got before to solve the puzzle. After on puzzle is solved, there are going to be some $color keys, $shapes, or $tools for you to collect. 
 
   
   Time starts running! Good luck!
