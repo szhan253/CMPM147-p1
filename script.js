@@ -1,5 +1,5 @@
 const fillers = {
-    adventurer: ["My dude", "Bro", "Adventurer", "Traveller", "Fellow", "Citizen", "Ashen One", "Dragonborn", "Cool person", "Tarnished", "$adventurer and $adventurer", "$adventurer, $adventurer, and $adventurer", "Geoff"],
+    player: ["My dude", "Bro", "Adventurer", "Traveller", "Fellow", "Citizen", "Ashen One", "Dragonborn", "Cool person", "Tarnished", "$adventurer and $adventurer", "$adventurer, $adventurer, and $adventurer", "Geoff"],
     pre: ["Fra", "Tro", "Gre", "Pan", "Ast", "Ara"],
     post: ["gria", "ston", "gott","-on-the-lee", "ora", "Ara", "uwu"],
     people: ["kindly", "meek", "brave", "wise", "sacred", "cherished", "honored", "forgotten", "apathetic", "mystic", "orca"],
@@ -12,11 +12,15 @@ const fillers = {
     
   };
   
-  const template = `$adventurer, heed my $message!
+  const template = `$player, welcome to the playground!
+
+  The playground’s gate is locked at midnight. There are many $scary all over the midnight playground. You need to cooperate with your friend, 
+  $player, to solve some puzzles provided all over the playground to get out of here in $number hours. You might need to $action two $objects 
+  together or use the $keys, shapes, or $tools you got before to solve the puzzle. After on puzzle is solved, there are going to be some $keys, 
+  $shapes, or $tools for you to collect. 
   
-  I have just come from $pre$post where the $people folk are in desperate need. Their town has been overrun by $baddies. You must venture forth at once, taking my $item, and help them.
+  Time starts running! Good luck!
   
-  It is told that the one who can rescue them will be awarded with $num $looty $loots. Surely this must tempt one such as yourself!
   `;
   
   
