@@ -1,21 +1,21 @@
 const fillers = {
-    player: ["My dude", "Bro", "Adventurer", "Traveller", "Fellow", "Citizen", "Ashen One", "Dragonborn", "Cool person", "Tarnished", "$adventurer and $adventurer", "$adventurer, $adventurer, and $adventurer", "Geoff"],
-    scary: ["Fra", "Tro", "Gre", "Pan", "Ast", "Ara"],
-    number: ["gria", "ston", "gott","-on-the-lee", "ora", "Ara", "uwu"],
-    action: ["kindly", "meek", "brave", "wise", "sacred", "cherished", "honored", "forgotten", "apathetic", "mystic", "orca"],
-    objects: ["axe", "staff", "book", "cloak", "shield", "club", "sword", "magic gloves", "galvel", "fists", "mace", "potato"],
-    color: [],
-    shapes: ["gleaming", "valuable", "esteemed", "rare", "exalted", "scintillating", "kinda gross but still usefull", "complete garbage"],
-    tools: ["coins", "chalices", "ingots", "hides", "victory points", "gems","scrolls", "bananas", "noodles", "goblins", "CS Majors", "college credits"],
+    player: ["My dude", "Mary", "Adventurer", "Traveller", "James", "Lucky player", "Daniel", "Mark", "Betty", "Kimberly", "$player and $player", "$player, $player, and $player", "Brian", "Sharon", "Nicole"],
+    scary: ["Ghost", "Jocker", "Dragon", "Fwooper", "Leucrotta", "Nundu", "Werewolf", "Swooping Evil", "Yeti", "Acromantula", "$scary and $scary"],
+    number: ["one", "two", "three","four", "five", "six", "seven", "$number to $number"],
+    action: ["push", "step on", "grab", "throw", "catch", "turn"],
+    objects: ["a button", "a box", "a switch", "a cube", "a battery"],
+    color: ["blue", "green", "gray", "pink", "yellow", "rainbow", "black", "white", "red", "apricot", "periwinkle", "golden", "orange", "pearl yellow", "purple", "pearl sapphire blue", "cobalt blue", "cosmic latte", "$color and $color"],
+    shapes: ["circle", "oval", "cross", "heart", "star", "square", "cube", "triangle", "pentagon", "hexagon", "heptagon", "octagon", "nonagon", "rhombus", "reuleaux triangle"],
+    tools: ["coins", "cards", "hammers", "screwdrivers", "mallets", "axe","saw", "scissors", "chisel", "pliers", "drill", "tape measure", "$tools or $tools"],
     
   };
   
   const template = `$player, welcome to the playground!
 
-  The playground’s gate is locked at midnight. There are many $scary all over the midnight playground. You need to cooperate with your friend, 
-  $player, to solve some puzzles provided all over the playground to get out of here in $number hours. You might need to $action two $objects 
-  together or use the $keys, shapes, or $tools you got before to solve the puzzle. After on puzzle is solved, there are going to be some $keys, 
-  $shapes, or $tools for you to collect. 
+  The playground’s gate is locked at midnight. There are many $scary all over the midnight playground. You need to cooperate with your friend, $player, 
+  to solve some puzzles provided all over the playground to get out of here in $number hours. You might need to $action two $objects together or use the $color keys, 
+  $shapes, or $tools you got before to solve the puzzle. After on puzzle is solved, there are going to be some $color keys, $shapes, or $tools for you to collect. 
+
   
   Time starts running! Good luck!
   
