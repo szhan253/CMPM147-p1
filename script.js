@@ -1,5 +1,5 @@
 const fillers = {
-    player: ["My dude", "Mary", "Adventurer", "Traveller", "James", "Lucky player", "Daniel", "Mark", "Betty", "Kimberly", "$player and $player", "$player, $player, and $player", "Brian", "Sharon", "Nicole"],
+    player: ["My dude", "Mary", "Adventurer", "Traveller", "James", "Lucky player", "Daniel", "Mark", "Betty", "Kimberly", "$player and $player", "Brian", "Sharon", "Nicole"],
     scary: ["Ghost", "Jocker", "Dragon", "Fwooper", "Leucrotta", "Nundu", "Werewolf", "Swooping Evil", "Yeti", "Acromantula", "$scary and $scary"],
     number: ["one", "two", "three","four", "five", "six", "seven", "$number to $number"],
     action: ["push", "step on", "grab", "throw", "catch", "turn"],
