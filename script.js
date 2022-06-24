@@ -6,15 +6,15 @@ const fillers = {
     objects: ["a button", "a box", "a switch", "a cube", "a battery"],
     color: ["blue", "green", "gray", "pink", "yellow", "rainbow", "black", "white", "red", "apricot", "periwinkle", "golden", "orange", "pearl yellow", "purple", "pearl sapphire blue", "cobalt blue", "cosmic latte", "$color and $color"],
     shapes: ["circle", "oval", "cross", "heart", "star", "square", "cube", "triangle", "pentagon", "hexagon", "heptagon", "octagon", "nonagon", "rhombus", "reuleaux triangle"],
-    tools: ["coins", "cards", "hammers", "screwdrivers", "mallets", "axe","saw", "scissors", "chisel", "pliers", "drill", "tape measure", "$tools or $tools"],
+    tools: ["coins", "cards", "hammers", "screwdrivers", "mallets", "axe","saw", "scissors", "chisel", "pliers", "drill", "tape measure", "keys", "$tools or $tools"],
+    elements: ["$color $shapes $tools"],
     
   };
   
   const template = `$player, welcome to the playground!
 
-  The playground's gate is locked at midnight. There are many $scary all over the midnight playground. You need to cooperate with your friend, $player, to solve some puzzles provided all over the playground to get out of here in $number hours. You might need to $action $objects together or use the $color $shapes keys or $tools you got before to solve the puzzle. After on puzzle is solved, there are going to be some $color $shapes keys or $tools for you to collect. 
+  The playground's gate is locked at midnight. There are many $scary all over the midnight playground. You need to cooperate with your friend, $player, to solve some puzzles provided all over the playground to get out of here in $number hours. You might need to $action $objects together or use the $elements you got before to solve the puzzle. After on puzzle is solved, there are going to be some $elements for you to collect. 
 
-  
   Time starts running! Good luck!
   
   `;
