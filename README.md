@@ -4,9 +4,7 @@
 
 ```
 ### Artist Statement
-```
-
-```
+I watched a video where two people playing We Were Here Forever, which is a two-player puzzle game. In the game, the players need to cooperate and find clues to solve the puzzle for each other to get out of jail. During that time, there is a song called Welcome to My Playground that comes into my mind also. Thus, I decided to combine those two elements and using as my background story.
 
 #### Note 
 
