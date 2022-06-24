@@ -3,7 +3,7 @@
 The message might be seen in a two-player puzzle computer game as an introduction that shows the background of the game world.
 
 ### Artist Statement
-In order to make the message to looks like giving background information about a puzzle game. I changed all the messages shown on the page. Additionally, I make an element that contains a lot of unreal animals’ names to show the game is not happening in the real world. To make myself life easier, I used a set called ‘elements’ which is showing what the player can find from the playground by combining the ‘color’, ‘shapes’, and ‘tools’ set to make them as one noun phrases to use in the message directly. 
+In order to make the message to looks like giving background information about a puzzle game. I changed all the messages shown on the page. Additionally, I make an element that contains a lot of unreal animals’ names to show the game is not happening in the real world. To make myself life easier and to add the complexity, I used a set called ‘elements’ which is showing what the player can find from the playground by combining the ‘color’, ‘shapes’, and ‘tools’ set to make them as one noun phrases to use in the message directly. 
 
 
 #### Note 
